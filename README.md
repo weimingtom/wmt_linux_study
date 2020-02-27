@@ -14,11 +14,13 @@ NanoPi Neo Core
 (TODO) LicheePi Zero    
 
 ## TODO  
+* 萤火虫rk3308-cc    
 * http://wiki.t-firefly.com/ROC-RK3308-CC/intro.html  
 * https://gitlab.com/TeeFirefly/rk3308-linux  
-* 香橙派  
+* http://www.t-firefly.com/doc/product/index/id/55.html  
+* 香橙派zero    
 * https://github.com/weimingtom/WiringNP  
-* OrangePi 2G-IOT, i96    
+* 香橙派OrangePi 2G-IOT, i96    
 * https://github.com/txurtxil/broot2g  
 for opi (orangepi) 2g-iot, also for i96  
 
