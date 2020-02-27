@@ -16,6 +16,11 @@ NanoPi Neo Core
 ## TODO  
 * http://wiki.t-firefly.com/ROC-RK3308-CC/intro.html  
 * https://gitlab.com/TeeFirefly/rk3308-linux  
+* 香橙派  
+* https://github.com/weimingtom/WiringNP  
+* OrangePi 2G-IOT, i96    
+* https://github.com/txurtxil/broot2g  
+for opi (orangepi) 2g-iot, also for i96  
 
 ## qemu  
 * https://jingyan.baidu.com/article/f00622281253e8fbd3f0c814.html  
