@@ -33,6 +33,14 @@ for opi (orangepi) 2g-iot, also for i96
 * https://github.com/weimingtom/wmt_ai_study  
 * https://github.com/weimingtom/wmt_mt7688_study   
 * https://github.com/weimingtom/wmt_esp8266_study  
+* https://github.com/weimingtom/wmt_protel_study  
+* https://github.com/weimingtom/wmt_rpi_study  
+* https://github.com/weimingtom/wmt_arm9_study  
+* https://github.com/weimingtom/wmt_nrf_study  
+* https://github.com/weimingtom/wmt_8051_study  
+* https://github.com/weimingtom/wmt_mcu_flash_study  
+* https://github.com/weimingtom/wmt_wireless_study  
+* https://github.com/weimingtom/wmt_k210_study  
 
 ## qemu  
 * https://jingyan.baidu.com/article/f00622281253e8fbd3f0c814.html  
