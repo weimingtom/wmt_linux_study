@@ -23,6 +23,16 @@ NanoPi Neo Core
 * 香橙派OrangePi 2G-IOT, i96    
 * https://github.com/txurtxil/broot2g  
 for opi (orangepi) 2g-iot, also for i96  
+* OpenWrt, linkit7688, 
+* https://github.com/weimingtom/wmt_mt7688_study  
+
+## Work  
+* https://github.com/weimingtom/wmt_arduino_study  
+* https://github.com/weimingtom/wmt_stm32_study  
+* https://github.com/weimingtom/wmt_speech_study  
+* https://github.com/weimingtom/wmt_ai_study  
+* https://github.com/weimingtom/wmt_mt7688_study   
+* https://github.com/weimingtom/wmt_esp8266_study  
 
 ## qemu  
 * https://jingyan.baidu.com/article/f00622281253e8fbd3f0c814.html  
