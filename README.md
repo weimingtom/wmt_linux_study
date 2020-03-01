@@ -43,6 +43,11 @@ for opi (orangepi) 2g-iot, also for i96
 * https://github.com/weimingtom/wmt_k210_study  
 * https://github.com/weimingtom/wmt_qemu_memo  
 
+## forum  
+* https://github.com/users/weimingtom/projects/2  
+* debugdump:  
+* https://whycan.cn   
+
 ## qemu  
 * https://jingyan.baidu.com/article/f00622281253e8fbd3f0c814.html  
 * https://github.com/surajx/qemu-arm-linux  
