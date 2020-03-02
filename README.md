@@ -53,3 +53,6 @@ for opi (orangepi) 2g-iot, also for i96
 * https://github.com/surajx/qemu-arm-linux  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/arm_linux.txt  
 * https://github.com/mwasyou/qemu_linux_arm_busybox  
+
+## orangepi_zero_gpio  
+https://github.com/nvl1109/orangepi_zero_gpio  
