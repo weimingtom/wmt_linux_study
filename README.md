@@ -1,8 +1,9 @@
 # wmt_linux_study
 My arm/x86 linux study  
 
-## Game Console / DIY    
+## Game Console / DIY / Hardware / PCB      
 * https://github.com/weimingtom/blanc  
+* https://github.com/weimingtom/wmt_protel_study  
 
 ## buildroot, and wiringpi port    
 * https://github.com/weimingtom/buildroot_rpi0_hello  
