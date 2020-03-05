@@ -60,3 +60,6 @@ for opi (orangepi) 2g-iot, also for i96
 
 ## orangepi_zero_gpio  
 https://github.com/nvl1109/orangepi_zero_gpio  
+
+## PCB prectice    
+* search baiudpan, kicad_print  
