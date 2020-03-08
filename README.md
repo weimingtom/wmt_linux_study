@@ -18,6 +18,8 @@ NanoPi Neo Core
 (TODO) LicheePi Zero    
 
 ## rtos  
+* https://github.com/weimingtom/tencentos-tiny_stm32f103rct6_hello  
+TODO  
 * https://github.com/weimingtom/alios-things_stm32f103rct6_hello  
 TODO  
 * https://github.com/weimingtom/rt-thread_stm32f103rct6_hello  
