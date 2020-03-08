@@ -17,6 +17,14 @@ NanoPi Neo Core
 * https://github.com/weimingtom/buildroot_licheepi_zero_hello  
 (TODO) LicheePi Zero    
 
+## rtos  
+* https://github.com/weimingtom/alios-things_stm32f103rct6_hello  
+TODO  
+* https://github.com/weimingtom/rt-thread_stm32f103rct6_hello  
+TODO  
+* https://github.com/weimingtom/liteos_stm32f103rct6_hello  
+TODO  
+
 ## TODO  
 * 萤火虫rk3308-cc    
 * http://wiki.t-firefly.com/ROC-RK3308-CC/intro.html  
