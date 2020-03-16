@@ -17,6 +17,9 @@ NanoPi Neo Core
 * https://github.com/weimingtom/buildroot_licheepi_zero_hello  
 (TODO) LicheePi Zero    
 
+## fbtft  
+see https://docs.armbian.com/Hardware_Freescale-imx6/  
+
 ## rtos  
 * https://github.com/weimingtom/tencentos-tiny_stm32f103rct6_hello  
 TODO  
