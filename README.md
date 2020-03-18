@@ -81,3 +81,6 @@ https://github.com/nvl1109/orangepi_zero_gpio
 * https://zhuanlan.zhihu.com/p/98611298  
 * http://tinylab.org/linux-0.11-lab/  
 * https://github.com/tinyclub/linux-0.11-lab  
+
+## 为已安装好的 Linux 系统新增一个内核模块  
+http://tinylab.org/add-kernel-modules/  
