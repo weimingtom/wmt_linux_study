@@ -92,3 +92,6 @@ c-sky
 nuc970  
 * https://github.com/weimingtom/wmt_rpi_study  
 树莓派rpi, raspberry pi  
+* https://gitlab.com/TeeFirefly/rk3308-linux/-/blob/firefly/external  
+https://github.com/rockchip-linux/buildroot/tree/rockchip/2018.02-rc3/package/rockchip  
+萤火虫ROC-RK3308B-CC  
