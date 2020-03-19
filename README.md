@@ -87,4 +87,8 @@ http://tinylab.org/add-kernel-modules/
 
 ## Linux app / Linux examples / Linux使用示例  
 * https://github.com/c-sky/linux-sdk-examples  
+c-sky  
 * https://github.com/OpenNuvoton/NUC970_Linux_Applications  
+nuc970  
+* https://github.com/weimingtom/wmt_rpi_study  
+树莓派rpi, raspberry pi  
