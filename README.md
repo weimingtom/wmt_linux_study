@@ -84,3 +84,7 @@ https://github.com/nvl1109/orangepi_zero_gpio
 
 ## 为已安装好的 Linux 系统新增一个内核模块  
 http://tinylab.org/add-kernel-modules/  
+
+## Linux app / Linux examples / Linux使用示例  
+* https://github.com/c-sky/linux-sdk-examples  
+* https://github.com/OpenNuvoton/NUC970_Linux_Applications  
