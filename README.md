@@ -116,3 +116,6 @@ https://blog.csdn.net/u010947098/article/details/53994227
 https://blog.csdn.net/Linjingke32/article/details/72969673  
 jdk  
 search baidupan jdk-6u31-linux-x64.rar  
+
+## PADS VX2.3 炬力8399游戏机高级2层板PCB Layout设计速成实战视频教程-志博教育  
+https://www.bilibili.com/video/av43454452/  
