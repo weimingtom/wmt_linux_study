@@ -1,6 +1,10 @@
 # wmt_linux_study
 My arm/x86 linux study  
 
+## AI  
+* https://github.com/weimingtom/wmt_ai_study/blob/master/README.md  
+* https://github.com/weimingtom/wmt_speech_study  
+
 ## Game Console / DIY / Hardware / PCB      
 * https://github.com/weimingtom/blanc  
 * https://github.com/weimingtom/wmt_protel_study  
