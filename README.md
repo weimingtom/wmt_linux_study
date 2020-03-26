@@ -119,3 +119,7 @@ search baidupan jdk-6u31-linux-x64.rar
 
 ## PADS VX2.3 炬力8399游戏机高级2层板PCB Layout设计速成实战视频教程-志博教育  
 https://www.bilibili.com/video/av43454452/  
+
+## AVR firmware burn  
+我又试了一下，终于找到用普通的USB-TTL转换器烧录atmega328p的方法——之前不成功是因为我没有把8M换成16M的晶振。诀窍是用104电容接在atmega328p的reset脚上，然后接在USB-TTL转换器的RTS或DTR脚（有些转换器叫RESET脚），Arduino IDE选择Uno类型  
+usbasp 烧录哪个文件？？？  
