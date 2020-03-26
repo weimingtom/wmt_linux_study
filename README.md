@@ -95,3 +95,12 @@ nuc970
 * https://gitlab.com/TeeFirefly/rk3308-linux/-/blob/firefly/external  
 https://github.com/rockchip-linux/buildroot/tree/rockchip/2018.02-rc3/package/rockchip  
 萤火虫ROC-RK3308B-CC  
+
+## [野火]i.MX Linux开发实战指南  
+http://tutorial.linux.doc.embedfire.com/zh_CN/latest/building_image/building_kernel.html  
+http://tutorial.linux.doc.embedfire.com/zh_CN/latest/index.html  
+http://products.embedfire.com/zh_CN/latest/  
+http://products.embedfire.com/zh_CN/latest/linux/ebf_i.mx6ull.html  
+
+## rk3308  
+https://github.com/rockchip-linux/buildroot  
