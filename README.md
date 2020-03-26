@@ -104,3 +104,15 @@ http://products.embedfire.com/zh_CN/latest/linux/ebf_i.mx6ull.html
 
 ## rk3308  
 https://github.com/rockchip-linux/buildroot  
+
+## android 2.2 build, TODO        
+(*) -> download  
+https://blog.csdn.net/u010947098/article/details/53896407  
+(*) ->  
+https://blog.csdn.net/u010947098/article/details/53944377  
+https://blog.csdn.net/u010947098/article/month/2017/01  
+https://blog.csdn.net/u010947098/article/details/53994227  
+2.3  
+https://blog.csdn.net/Linjingke32/article/details/72969673  
+jdk  
+search baidupan jdk-6u31-linux-x64.rar  
