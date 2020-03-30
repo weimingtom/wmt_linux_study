@@ -131,3 +131,6 @@ https://www.bilibili.com/video/av43454452/
 ## Linux驱动->raspbian  
 * 《从零开始学Buildroot第6期》，由于移植WiringPi到各种小型板比较枯燥，于是我多线程去研究其他不同的技术。网上比较流行的做法是利用内核模块（Linux驱动程序）去创建树莓派spi屏幕的framebuffer，如果要这么玩就需要写内核模块，我研究出来最简单的buildroot驱动程序包是这么实现的，如下图所示。当然目前我还没研究出framebuffer驱动的编写方法，这个留待进一步的研究。等下几期我会把研究好的完整工程放在gh上，暂时我还在摸索阶段  
 * 上传hellomod  
+
+## Soc 单片机列举  
+* https://github.com/sochub  
