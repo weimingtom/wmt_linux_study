@@ -134,3 +134,6 @@ https://www.bilibili.com/video/av43454452/
 
 ## Soc 单片机列举  
 * https://github.com/sochub  
+
+## 创易栈-在线选型工具  
+http://www.emakerzone.com/themes/default/views/index/chip/new_file.html  
