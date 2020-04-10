@@ -1,6 +1,9 @@
 # wmt_linux_study
 My arm/x86 linux study  
 
+## ASR (Speech Recognition) Project  
+* https://github.com/weimingtom/asr_rpi3b_hello  
+
 ## AI  
 * https://github.com/weimingtom/wmt_ai_study/blob/master/README.md  
 * https://github.com/weimingtom/wmt_speech_study  
