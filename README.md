@@ -140,3 +140,8 @@ https://www.bilibili.com/video/av43454452/
 
 ## 创易栈-在线选型工具  
 http://www.emakerzone.com/themes/default/views/index/chip/new_file.html  
+
+## Rock Pi S  
+* https://github.com/radxa/build  
+see mk-image.sh, rockpis  
+
