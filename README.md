@@ -144,4 +144,11 @@ http://www.emakerzone.com/themes/default/views/index/chip/new_file.html
 ## Rock Pi S  
 * https://github.com/radxa/build  
 see mk-image.sh, rockpis  
+only ref:  
+https://github.com/radxa/docs  
+https://github.com/radxa/rabian-build  
+https://github.com/291700351/build_lichee/blob/db6c837e00789de756c98ea13f058fc8907469ff/buildroot-2019.08-rc2/configs/radxa_rock_pi4_defconfig  
+https://github.com/jdarling/radxa-nodejs-img  
+https://github.com/jdarling/radxa-rock  
+
 
