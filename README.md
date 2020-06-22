@@ -157,10 +157,11 @@ https://blog.csdn.net/jiangyinglin198812/article/details/9905089
 
 * lunch full_x86-eng   
 $ git clone git://mirrors.ustc.edu.cn/aosp/platform/build  
+$ cd build  
+$ git checkout gingerbread  
 //git checkout froyo (x)  
-$ git checkout gingerbread (y)  
 //NOTE!!! don't use git checkout -b  
 $ cd ..  
 $ source ./build/envsetup.sh  
 $ lunch  
-full_x86-eng  
+2. full_x86-eng  
