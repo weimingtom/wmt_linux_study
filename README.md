@@ -151,4 +151,16 @@ https://github.com/291700351/build_lichee/blob/db6c837e00789de756c98ea13f058fc89
 https://github.com/jdarling/radxa-nodejs-img  
 https://github.com/jdarling/radxa-rock  
 
+## dalvik x86  
+* 编译x86 平台的dalvik  
+https://blog.csdn.net/jiangyinglin198812/article/details/9905089  
 
+* lunch full_x86-eng   
+$ git clone git://mirrors.ustc.edu.cn/aosp/platform/build  
+//git checkout froyo (x)  
+$ git checkout gingerbread (y)  
+//NOTE!!! don't use git checkout -b  
+$ cd ..  
+$ source ./build/envsetup.sh  
+$ lunch  
+full_x86-eng  
