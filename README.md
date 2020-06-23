@@ -165,3 +165,6 @@ $ cd ..
 $ source ./build/envsetup.sh  
 $ lunch  
 2. full_x86-eng  
+
+## raspberrypi (rpi) videocore  
+https://github.com/Yours3lf/rpi-vk-driver  
